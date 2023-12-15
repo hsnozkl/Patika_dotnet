@@ -44,9 +44,9 @@ class Program
             //string ifadeler
 
             string str1 = string.Empty;
-            str1 = "Hüseyin Özkan";
-            string ad = "Hüseyin";
-            string soyad = "Özkan";
+            str1 = "Hasan Özkale";
+            string ad = "Hasan";
+            string soyad = "Özkale";
             string tamIsim = ad + " " + soyad;
             
             //Integer
